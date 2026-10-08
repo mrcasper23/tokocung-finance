@@ -1,6 +1,0 @@
-{
-  "name": "Toko Cung Finance",
-  "description": "Sistem Manajemen Keuangan dan Akuntansi Internal Terintegrasi Toko Cung",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
